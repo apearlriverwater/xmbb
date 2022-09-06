@@ -3,7 +3,7 @@ url: http://matt.harzewski.com
 description: Insert tagline here
 
 permalink: /themes/:title/
-
+remote_theme: riggraz/no-style-please
 plugins: [jekyll-paginate]
 
 highlighter: pygments
